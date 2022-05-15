@@ -1,3 +1,3 @@
 # ahorcadoaluraoracle.github.io
 
-El segundo challenge de Oracle / Alura LATAM. Me divertí mucho con este desafío creando el juego del ahorcado, fueron largas las noches de desarrollo para que todo quedara como queria pero estoy muy contento con el resultado, ahora a seguir con el proximo.
+Gracias al código de Damián aprendí nuevas cosas y pude personalizar el mío. Soy nuevo en esto y estaba a punto de tirar la toalla. Gracias por su ayuda
